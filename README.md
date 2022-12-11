@@ -10,4 +10,5 @@ Step 3: ip:9090 , show there is two node attach in prometheus server.
 Step 4: For attractive dashboard install granfa and prometheus data source.
 
 Step 5: Now we can see memory , cpu , disk metrics in grafana.
-<a href="https://github.com/techay-mihir-simform/prometheus_script/blob/main/prometheus-ss.pdf" class="image fit" ><img src="images/marr_pic.jpg" alt=""></a>
+
+[embed]https://github.com/techay-mihir-simform/prometheus_script/blob/main/prometheus-ss.pdf[/embed]
